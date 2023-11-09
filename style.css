@@ -109,6 +109,7 @@ html {
     padding: 0 25% 4rem 25%;
     background-color: rgb(254, 231, 218);
     color: #4a4a4a;
+    line-height: 1.4;
   }
   
   .photo {
@@ -149,6 +150,7 @@ html {
     font-family: "Abril Fatface", serif;
     font-size: 7.44rem;
     color: #10b0d8;
+    line-height: .87;
   }
   
   .quote {
